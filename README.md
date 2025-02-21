@@ -2,5 +2,7 @@
 dbt learning exercise
 
 
-# resources
+# Resources
 [dbt Quickstarts | dbt Developer Hub ](https://docs.getdbt.com/docs/get-started-dbt)
+
+## Setup
